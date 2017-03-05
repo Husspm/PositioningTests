@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+div {
+    background-image: url(redwave.png);
+    background-size: contain;
+    margin: 20px;
+    padding: 40px;
+    background-color: #000;
+    border: inset 8px #f8f8f8;
+}
